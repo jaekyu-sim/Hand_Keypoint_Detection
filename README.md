@@ -32,8 +32,8 @@ Like this.
 ![Confidencemap_PAFs_Hands](./Image_for_github/Hand.png)
 
 And, finally we could get these output
-![Confidencemap_output](/Image_for_github/Hand_Output1.PNG)
 ![Confidencemap_output](/Image_for_github/Hand_Output2.PNG)
+![Confidencemap_output](/Image_for_github/Hand_Output.PNG)
 
 
 5. etc
