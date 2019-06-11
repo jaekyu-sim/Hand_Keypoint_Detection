@@ -2,7 +2,7 @@
 reference paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Simon_Hand_Keypoint_Detection_CVPR_2017_paper.pdf
 
 1. The Network Architecture
-
+![Network architecture](/Image_for_github/Network.png)
 
 2. Dataset
 To train this network, I use MPII Hand keypoint dataset.
