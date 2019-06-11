@@ -5,7 +5,9 @@ reference paper : http://openaccess.thecvf.com/content_cvpr_2017/papers/Simon_Ha
 
 
 2. Dataset
-
+To train this network, I use MPII Hand keypoint dataset.
+Datset Information is here.
+In annotation file, there is 21 keypoints information. And we could get 20 limb data by using 21 keypoints.
 ![Dataset_Information](/Image_for_github/Dataset_Information.png)
 
 3. Training
