@@ -39,3 +39,14 @@ And, finally we could get these output
 
 
 5. etc
+Information about this repository.
+
+1) Demo_Hand.ipynb : If you trained this network, you could get PAFs and Confidencemaps by running session.
+Then, you use this ipynb file to estimate actual pose by using bipartite argorithm.
+
+2) For_Demo_Hand.ipynb : This file is for Demo_Hand.ipynb. 
+
+3) Hand_Data_Processing.ipynb : You download MPII Hand keypoint dataset, and you could get raw annotation data not good for using.
+So, I made this file for using annotation data easily.
+
+4) Training_Hand.ipynb : This file is for training.
